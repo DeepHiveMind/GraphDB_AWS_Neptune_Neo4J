@@ -4,16 +4,19 @@ Let us look at some of the key comparative view b/w AWS Neptune vis-a-vis Neo4j
 
 ***
 2 Data Domains for GraphDB -
-- PG Model/Tinkerpop Gremlin or CQL
-- RDF Model / SPARQL
+- **PG Model/Tinkerpop Gremlin or CQL**
+- **RDF Model / SPARQL**
 
 Customers in domains using 
 	- **triple entities** with **subject-predicate-object** such as **knowledge graphs** or **clinical data** stores prefer **RDF Model**,
 	- while customers from **variably structured data sources** such as **social media** prefer **PG Model**
+	
+{Property Graph (PG) model:Apache TinkerPop Gremlin,or, Cypher Query Language (CQL) }
+{Resource Description Framework (RDF) model: SAPRQL}
 ***
 
 
-|AWS Neptune | Neo4j | 
+|**AWS Neptune** | **Neo4j** | 
 | :--: | :--: |
 |Amazon Neptune is a **fully-managed cloud-based** high-performance graph database that is generally available on AWS. You can use open and popular graph query languages such as **Gremlin and SPARQL** to query connected data.|Neo4j is the world's leading native graph database platform. It is written in Java and Scala and is accessible with the **Cypher Query Language (CQL)** developed internally at Neo4j and later opened sourced through the openCypher project.Neo4j has been working exclusively with graph technology since 2007 and it boasts the *world's largest ecosystem for Graph DBMS*.|
 |AWS handles **provisioning, patching, backup, recovery, failure detection and repair** for you.|One has to leverage Dockerization & K8S to manage those NFRs |
