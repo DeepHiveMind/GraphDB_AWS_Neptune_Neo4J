@@ -53,6 +53,7 @@ Please relish [Video](https://www.youtube.com/watch?v=JaATpaGDNh4) to understand
 - [AWS Neptune vis-a-vis Neo4j](README%20-AWS%20Neptune%20%26%20Neo4j.md)
 - [Polymorphysm in AWS Neptune](README%20-Polymorphysm%20in%20AWS%20Neptune.md)
 - [Deep dive into AWS Neptune Property GraphDB](README.md)
+	- [AWS Neptune Property Graph DataModel](/notebook/02-Labelled-Property-Graph.ipynb)
 	- [Setting up AWS Neptune]()
 	- [Bulk Loading Data into AWS Neptune]()
 	- [Gremlin Query on AWS Neptune]()

@@ -31,3 +31,7 @@ Customers in domains using
 
 - Inference provides the ability to process **RDFS or OWL rules** *used to declare schema when adding data*. Schema declared often includes **classes, inheritances, types, restrictions for nodes, edges and properties**.
 ***
+
+- Unlike some other Tinkerpop-enabled graph databases, Neptune allows you to attach multiple labels to a vertex
+- The schema-free nature of Neptune: no two vertices, even those sharing the same label, need have the exact same set of properties.
+
