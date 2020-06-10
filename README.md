@@ -55,6 +55,7 @@ Please relish [Video](https://www.youtube.com/watch?v=JaATpaGDNh4) to understand
 - [Deep dive into AWS Neptune Property GraphDB](README.md)
 	- [AWS Neptune Property Graph DataModel](/notebook/02-Labelled-Property-Graph.ipynb)
 	- [Setting up AWS Neptune]()
+	- [Using Gremlin Notebook custom UTILITY to load play visualize social network PG DATA](/notebook/03-CREATE-QUERY-VISUALIZE-Social-Network-Recommendations.ipynb)
 	- [Bulk Loading Data into AWS Neptune]()
 	- [Gremlin Query on AWS Neptune]()
 	- [Writing to Amazon Neptune from Amazon Kinesis Data Streams]()
