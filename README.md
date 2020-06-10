@@ -29,7 +29,7 @@ We live in a connected world! There are no isolated pieces of information, but r
 	- **IDENTITY & ACCESS MANAGEMENT**
 	- **System-Of-Engagements**
 
-- Graph DB Offers
+- Graph DB Offers over other RDMBS as well as NOSQL DBs
 	- Intuitiveness
 	- Speed
 	- Agility
@@ -47,7 +47,7 @@ Please relish [Video](https://www.youtube.com/watch?v=JaATpaGDNh4) to understand
 	- Please keep checking your **compass (this index page)** for to seamlessly steer your way to the next mile of this wonderful journey.
 ***
  
-- [Tranformation from RDBMS Model Schema to Graph Data Model]()
+- [Tranformation from RDBMS Model Schema to Graph Data Model](README%20-Data%20Model%20Transformation.md)
 - [AWS Neptune vis-a-vis Neo4j]()
 - [Polymorphysm in AWS Neptune]()
 - [Deep dive into AWS Neptune Property GraphDB]()
