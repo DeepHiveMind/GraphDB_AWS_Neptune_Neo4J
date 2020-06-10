@@ -51,8 +51,8 @@ Please relish [Video](https://www.youtube.com/watch?v=JaATpaGDNh4) to understand
  
 - [Tranformation from RDBMS Model Schema to Graph Data Model](README%20-Data%20Model%20Transformation.md)
 - [AWS Neptune vis-a-vis Neo4j](README%20-AWS%20Neptune%20%26%20Neo4j.md)
-- [Polymorphysm in AWS Neptune]()
-- [Deep dive into AWS Neptune Property GraphDB]()
+- [Polymorphysm in AWS Neptune](README%20-Polymorphysm%20in%20AWS%20Neptune.md)
+- [Deep dive into AWS Neptune Property GraphDB](README.md)
 	- [Setting up AWS Neptune]()
 	- [Bulk Loading Data into AWS Neptune]()
 	- [Gremlin Query on AWS Neptune]()
