@@ -25,6 +25,7 @@ We live in a connected world! There are no isolated pieces of information, but r
 	- **REAL TIME RECOMMENDATIONS**
 	- **SOCIAL NETWORK**
 	- **FRAUD DETECTION**
+	- **Google Maps and Routes APIs**
 	- **NETWORK & IT-OPERATIONS**
 	- **IDENTITY & ACCESS MANAGEMENT**
 	- **System-Of-Engagements**
@@ -33,7 +34,8 @@ We live in a connected world! There are no isolated pieces of information, but r
 	- Intuitiveness
 	- Speed
 	- Agility
-	
+**graphs are the most natural way to model data in the real world.**
+
 Please relish [Video](https://www.youtube.com/watch?v=JaATpaGDNh4) to understand the aforementioned high level concepts in a better way.
 
 
