@@ -2,7 +2,7 @@
 
 We live in a connected world! There are no isolated pieces of information, but rich, connected domains all around us.
 
-<img src="img/graph_data_modeling.jpg" width="50" height="20" border="10">
+<img src="img/graph_data_modeling.jpg" width="500" height="200" border="10">
 
 Welcome to world of AWS Neptune &amp; Neo4J GraphDB!!
 
