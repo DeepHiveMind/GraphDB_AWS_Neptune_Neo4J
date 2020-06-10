@@ -4,7 +4,7 @@ We live in a connected world! There are no isolated pieces of information, but r
 
 <img src="img/graph_data_modeling.jpg" width="500" height="200" border="10">
 
-Welcome to world of AWS Neptune &amp; Neo4J GraphDB!!
+**Welcome to world of GraphDB!!**
 
 Graph databases **natively embraces relationships**. While other databases compute **relationships at query time** through *expensive JOIN operations*, a Graph database stores **connections alongside the data** in the model.
 - Independent of the total size of your dataset, graph databases excel at managing highly-connected data and complex queries.
@@ -26,7 +26,7 @@ Graph databases **natively embraces relationships**. While other databases compu
  
 - [GraphDB Schema vis-a-vis Relational DBMS Schema]()
 - [AWS Neptune vis-a-vis Neo4j]()
-- [Polymorphysm in AWS Neptune] ()
+- [Polymorphysm in AWS Neptune]()
 - [Deep dive into AWS Neptune Property GraphDB]()
 	- [Setting up AWS Neptune]()
 	- [Bulk Loading Data into AWS Neptune]()
