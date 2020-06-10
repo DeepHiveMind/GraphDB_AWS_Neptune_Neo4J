@@ -66,7 +66,9 @@ Please relish [Video](https://www.youtube.com/watch?v=JaATpaGDNh4) to understand
 ## AWS Neptune Property GraphDB Codesets
 Following folders carry **Jupyter notebook (interactive python notebook/ .ipynb)** || **Python Codeset as well as pseudocode** ||  **refernce blogs** et al.
 
+- **[Social-Network-Recommendations](/notebook/03-CREATE-QUERY-VISUALIZE-Social-Network-Recommendations.ipynb)**
   
-- **[AWS Neptune Cluster setup](neptune)** 
 
 - **[Visualize data in Amazon Neptune using VIS.js](https://github.com/DeepHiveMind/AWS_GraphDB_AWS-API-GW_AWS-Lambda_Visualization_Pipeline)**
+
+- **[AWS Neptune Cluster setup](neptune)** 
