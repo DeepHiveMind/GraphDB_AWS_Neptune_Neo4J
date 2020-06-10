@@ -52,15 +52,16 @@ Please relish [Video](https://www.youtube.com/watch?v=JaATpaGDNh4) to understand
 - [Tranformation from RDBMS Model Schema to Graph Data Model](README%20-Data%20Model%20Transformation.md)
 - [AWS Neptune vis-a-vis Neo4j](README%20-AWS%20Neptune%20%26%20Neo4j.md)
 - [Polymorphysm in AWS Neptune](README%20-Polymorphysm%20in%20AWS%20Neptune.md)
-- [Deep dive into AWS Neptune Property GraphDB](README.md)
-	- [AWS Neptune Property Graph DataModel](/notebook/02-Labelled-Property-Graph.ipynb)
-	- [Setting up AWS Neptune]()
-	- [Using Gremlin Notebook custom UTILITY to load play visualize social network PG DATA](/notebook/03-CREATE-QUERY-VISUALIZE-Social-Network-Recommendations.ipynb)
+- [Deep dive into AWS Neptune Property Graph DB](README.md)
+	- [AWS Neptune Cluster Setup]()
+	- [AWS Neptune Property Graph DataModel CREATE & QUERY 1 Using Gremlin Notebook](/notebook/(PG-Data-model-Query-1.ipynb)
+	- [AWS Neptune Property Graph DataModel CREATE & QUERY 2 Using Gremlin Notebook](/notebook/(PG-Data-model-Query-2.ipynb)
+	- [AWS Neptune Property Graph DataModel VISUALIZATION Using Gremlin Notebook](/notebook/02-Labelled-Property-Graph.ipynb)
 	- [Bulk Loading Data into AWS Neptune]()
-	- [Gremlin Query on AWS Neptune]()
+	- [CREATE, VISUALIZE & PERDICTIVE QUERY play on SOCIAL NETWORK PG Datamodel Using Gremlin Notebook](/notebook/03-CREATE-QUERY-VISUALIZE-Social-Network-Recommendations.ipynb)
 	- [Writing to Amazon Neptune from Amazon Kinesis Data Streams]()
 	- [Production garde Data pipeline with Neptune as Data Sink]()
-	- [Visualize data in Amazon Neptune using VIS.js]()
+	- [Visualize data in Amazon Neptune using VIS.js](https://github.com/DeepHiveMind/AWS_GraphDB_AWS-API-GW_AWS-Lambda_Visualization_Pipeline)
 
 
 ## AWS Neptune Property GraphDB Codesets
