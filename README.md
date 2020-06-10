@@ -16,25 +16,24 @@ Graph databases **natively embraces relationships**. While other databases compu
 |Please click on the above image to expand|Please click on the above image to expand|   
 
 
-
-
+#### The Quick rundown of this repo
 
 **Please note:** 
- - ***This page serve as the Index page.***
- - Please click on hyperlinks of the respective items to delve deep into it.
- - Please keep checking your **compass (this index page)** for to seamlessly steer your way to the next mile of this wonderful journey.
+ 	- ***This page serve as the Index page.***
+ 	- Please click on hyperlinks of the respective items to delve deep into it.
+	 - Please keep checking your **compass (this index page)** for to seamlessly steer your way to the next mile of this wonderful journey.
 
-#### The Quick rundown of this repo
-- [GraphDB Schema vis-a-vis Relational DBMS Schema]
-- [AWS Neptune vis-a-vis Neo4j]
-- [Polymorphysm in AWS Neptune] 
-- [Deep dive into AWS Neptune Property GraphDB]
-	- [Setting up AWS Neptune]
-	- [Bulk Loading Data into AWS Neptune]
-	- [Gremlin Query on AWS Neptune]
-	- [Writing to Amazon Neptune from Amazon Kinesis Data Streams]
-	- [Production garde Data pipeline with Neptune as Data Sink]
-	- [Visualize data in Amazon Neptune using VIS.js]
+ 
+- [GraphDB Schema vis-a-vis Relational DBMS Schema]()
+- [AWS Neptune vis-a-vis Neo4j]()
+- [Polymorphysm in AWS Neptune] ()
+- [Deep dive into AWS Neptune Property GraphDB]()
+	- [Setting up AWS Neptune]()
+	- [Bulk Loading Data into AWS Neptune]()
+	- [Gremlin Query on AWS Neptune]()
+	- [Writing to Amazon Neptune from Amazon Kinesis Data Streams]()
+	- [Production garde Data pipeline with Neptune as Data Sink]()
+	- [Visualize data in Amazon Neptune using VIS.js]()
 
 
 ## AWS Neptune Property GraphDB Codesets
