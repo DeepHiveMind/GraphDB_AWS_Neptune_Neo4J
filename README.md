@@ -2,7 +2,7 @@
 
 We live in a connected world! There are no isolated pieces of information, but rich, connected domains all around us.
 
-<img src="img/graph_data_modeling.JPG" width="50" height="20" border="10">
+<img src="img/graph_data_modeling.jpg" width="50" height="20" border="10">
 
 Welcome to world of AWS Neptune &amp; Neo4J GraphDB!!
 
@@ -12,7 +12,7 @@ Graph databases **natively embraces relationships**. While other databases compu
   
 |Relational Model | Graph Model|
 | :--: | :--: |
-|<img src="img/relational_org_chart.JPG" width="500" height="200" border="10">|<img src="img/graph_org_chart.JPG" width="500" height="200" border="10">|
+|<img src="img/relational_org_chart.jpg" width="500" height="200" border="10">|<img src="img/graph_org_chart.jpg" width="500" height="200" border="10">|
 |Please click on the above image to expand|Please click on the above image to expand|   
 
 
