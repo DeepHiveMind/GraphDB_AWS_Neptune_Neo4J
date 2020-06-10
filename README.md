@@ -2,7 +2,11 @@
 
 Welcome to world of AWS Neptune &amp; Neo4J GraphDB!!
 
-We live in a connected world! There are no isolated pieces of information, but rich, connected domains all around us. Graph databases **natively embraces relationships**. While other databases compute **relationships at query time** through *expensive JOIN operations*, a Graph database stores **connections alongside the data** in the model.
+We live in a connected world! There are no isolated pieces of information, but rich, connected domains all around us.
+
+<img src="img/graph_data_modeling.JPG" width="50" height="20" border="10">
+
+Graph databases **natively embraces relationships**. While other databases compute **relationships at query time** through *expensive JOIN operations*, a Graph database stores **connections alongside the data** in the model.
 - Independent of the total size of your dataset, graph databases excel at managing highly-connected data and complex queries.
 - The Property Graph Model: A *Node-Edges-Properties model* to *organize Domain Data and their inherent relationships*. A quick glimpse of Property Graph Model- 
   
