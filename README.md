@@ -50,7 +50,7 @@ Please relish [Video](https://www.youtube.com/watch?v=JaATpaGDNh4) to understand
 ***
  
 - [Tranformation from RDBMS Model Schema to Graph Data Model](README%20-Data%20Model%20Transformation.md)
-- [AWS Neptune vis-a-vis Neo4j]()
+- [AWS Neptune vis-a-vis Neo4j](README%20-AWS%20Neptune%20%26%20Neo4j.md)
 - [Polymorphysm in AWS Neptune]()
 - [Deep dive into AWS Neptune Property GraphDB]()
 	- [Setting up AWS Neptune]()
