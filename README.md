@@ -86,8 +86,8 @@ Please note:*
 	- [CREATE, VISUALIZE & PERDICTIVE QUERY play on SOCIAL NETWORK PG Datamodel Using Gremlin Notebook](/notebook/03-CREATE-QUERY-VISUALIZE-Social-Network-Recommendations.ipynb)
 	- [Bulk Loading Data from S3 into AWS Neptune using BULK LOAD API](README%20-AWS%20Neptune%20Cluster%20Setup%20%26%20Connect%20GREMLIN.md)
 	- [Production garde Data pipeline with Neptune as Data Sink](README%20-Production%20garde%20Data%20pipeline%20with%20Neptune%20as%20Data%20Sink.md)
-	- [Writing to Amazon Neptune from Amazon Kinesis Data Streams]()
 	- [Visualize data in Amazon Neptune using VIS.js](https://github.com/DeepHiveMind/AWS_GraphDB_AWS-API-GW_AWS-Lambda_Visualization_Pipeline)
+	- [Writing to Amazon Neptune from Amazon Kinesis Data Streams](https://github.com/aws-samples/amazon-neptune-samples/tree/master/gremlin/stream-2-neptune)
 
 
 ## AWS Neptune Property GraphDB Codesets
