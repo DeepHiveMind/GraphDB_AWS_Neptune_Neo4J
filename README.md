@@ -2,7 +2,7 @@
 
 We live in a connected world! There are no isolated pieces of information, but rich, connected domains all around us.
 
-*Welcome to the Real world of System-Of-Engagements*
+**Welcome to the *Real world* of System-Of-Engagements**
 
 <img src="img/graph_data_modeling.jpg" width="500" height="200" border="10">
 
