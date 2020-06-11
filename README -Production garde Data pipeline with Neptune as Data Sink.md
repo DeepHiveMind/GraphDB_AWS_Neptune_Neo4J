@@ -186,12 +186,14 @@ Open up each of these prefixes.  You'll want to get the latest CSV output file w
 
 ### Step 8: Prepare Neptune Instance for Bulk Load
 
-##### (If necessary) Create a New Neptune Environment
+##### Create a New Neptune Environment
 Before this data can be loaded into a Neptune instance, we'll need to complete a few items:
-- Create a new Neptune cluster/instance (if you have not already done so).
+- Create a new Neptune cluster/instance.
 - Create a management EC2 instance to connect to Neptune for both bulk loading and for querying the graph after the load process has completed.
 
-*NOTE: Both of the steps above can be completed using a Cloudformation Quick Start template that is available here: https://docs.aws.amazon.com/neptune/latest/userguide/quickstart.html#quickstart-cfn*
+*NOTE: Both of the steps above can be completed using a Cloudformation Quick Start template that is available here: https://docs.aws.amazon.com/neptune/latest/userguide/get-started-create-cluster.html
+
+
 
 ##### Provide Permissions for Neptune to Access CSV Files for Bulk Load
 
