@@ -80,11 +80,10 @@ P.S.: I am still a big proponent of **POLYGLOT DB/ FEDERATED DATA LAKE**.
 	- [AWS Neptune Property Graph DataModel UNDERSTANDING](/notebook/02-Labelled-Property-Graph.ipynb)
 	- [AWS Neptune Property Graph DataModel CREATE & QUERY 1 Using Gremlin Notebook](/notebook/PG-Data-model-Query-1.ipynb)
 	- [AWS Neptune Property Graph DataModel CREATE & QUERY 2 Using Gremlin Notebook](/notebook/PG-Data-model-Query-2.ipynb)
-
-	- [Bulk Loading Data into AWS Neptune]()
+	- [Bulk Loading Data from S3 into AWS Neptune using BULK LOAD API]()
 	- [CREATE, VISUALIZE & PERDICTIVE QUERY play on SOCIAL NETWORK PG Datamodel Using Gremlin Notebook](/notebook/03-CREATE-QUERY-VISUALIZE-Social-Network-Recommendations.ipynb)
+	- [Production garde Data pipeline with Neptune as Data Sink](README -Production garde Data pipeline with Neptune as Data Sink)
 	- [Writing to Amazon Neptune from Amazon Kinesis Data Streams]()
-	- [Production garde Data pipeline with Neptune as Data Sink]()
 	- [Visualize data in Amazon Neptune using VIS.js](https://github.com/DeepHiveMind/AWS_GraphDB_AWS-API-GW_AWS-Lambda_Visualization_Pipeline)
 
 
