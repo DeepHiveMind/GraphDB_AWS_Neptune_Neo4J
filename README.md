@@ -6,6 +6,33 @@ We live in a connected world! There are no isolated pieces of information, but r
 
 <img src="img/graph_data_modeling.jpg" width="500" height="200" border="10">
 
+***
+CONNECTED DATA
+
+Many of the most important questions we want to ask of our data today from our **Data Platform (System-of-engagement)** require us to understand **how things are connected – in what ways, and with what strength, weight or quality**. Such as:
+
+- Which applications and services in my network will be affected if a particular network element—a router or switch, for example—fails?
+     - Do we have redundancy throughout the network for our most important customers?
+- What's the quickest route between two stations on the underground?
+- Which friends and colleagues do we have in common?
+- What do you recommend this customer should buy, view, or listen to next?
+- Which products, services and subscriptions does a user have permission to access and modify?
+- What's the cheapest or fastest means of delivering this parcel from A to B?
+- Which parties are likely working together to defraud their bank or insurer?
+- Which institutions are most at risk of poisoning the financial markets?
+
+This needs a Data Platform which can manage and make sense of 
+     - **large volumes of variably-structured**, 
+     - **densely-connected data**. 
+     - what depends on what; how things flow;  analysing the impact of events on deep dependency chains;  identifying and assessing risk; (**All connected data problems**) :simley: .
+     
+These are the kinds of problems for which GrphDB like Amazon Neptune is ideally suited. 
+
+P.S.: I am still a big proponent of **POLYGLOT DB/ FEDERATED DATA LAKE**.
+***
+
+
+
 **Welcome to world of GraphDB!!**
 
 
@@ -38,30 +65,6 @@ We live in a connected world! There are no isolated pieces of information, but r
 
 Please relish [Video](https://www.youtube.com/watch?v=JaATpaGDNh4) to understand the aforementioned high level concepts in a better way.
 
-***
-CONNECTED DATA
-
-Many of the most important questions we want to ask of our data today from our **Data Platform (System-of-engagement)** require us to understand **how things are connected – in what ways, and with what strength, weight or quality**. Such as:
-
-- Which applications and services in my network will be affected if a particular network element—a router or switch, for example—fails?
-     - Do we have redundancy throughout the network for our most important customers?
-- What's the quickest route between two stations on the underground?
-- Which friends and colleagues do we have in common?
-- What do you recommend this customer should buy, view, or listen to next?
-- Which products, services and subscriptions does a user have permission to access and modify?
-- What's the cheapest or fastest means of delivering this parcel from A to B?
-- Which parties are likely working together to defraud their bank or insurer?
-- Which institutions are most at risk of poisoning the financial markets?
-
-This needs a Data Platform which can manage and make sense of 
-     - **large volumes of variably-structured**, 
-     - **densely-connected data**. 
-     - what depends on what; how things flow;  analysing the impact of events on deep dependency chains;  identifying and assessing risk; (**All connected data problems**) :simley: .
-     
-These are the kinds of problems for which GrphDB like Amazon Neptune is ideally suited. 
-
-P.S.: I am still a big proponent of **POLYGLOT DB/ FEDERATED DATA LAKE**.
-***
 
 #### The Quick rundown of this repo
 
