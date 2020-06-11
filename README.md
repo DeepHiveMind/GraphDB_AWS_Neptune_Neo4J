@@ -24,7 +24,7 @@ Many of the most important questions we want to ask of our data today from our *
 This needs a Data Platform which can manage and make sense of 
      - **large volumes of variably-structured**, 
      - **densely-connected data**. 
-     - what depends on what; how things flow;  analysing the impact of events on deep dependency chains;  identifying and assessing risk; (**All connected data problems**) :simley: .
+     - what depends on what; how things flow;  analysing the impact of events on deep dependency chains;  identifying and assessing risk; (**All connected data problems**) :smiley: .
      
 These are the kinds of problems for which GrphDB like Amazon Neptune is ideally suited. 
 
