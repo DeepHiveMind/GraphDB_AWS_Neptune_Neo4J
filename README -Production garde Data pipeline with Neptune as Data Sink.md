@@ -3,10 +3,11 @@
 ### Description
 
 In this, we take data that was formerly in some form of relational data model, manipulate that data into a graph model, and then use following other services in AWS to perform the data transformation into the data format supported for loading into Amazon Neptune- 
-	- Use AWS Glue to Crawl and Discover Data Schema
-	- Using Amazon Athena to Query the Glue database
-	- Use Athena to Output Files to S3 Bucket 
-	- Creating a Graph Data Model & Use Bulk Load API load to Neptune
+	
+- Use AWS Glue to Crawl and Discover Data Schema
+- Using Amazon Athena to Query the Glue database
+- Use Athena to Output Files to S3 Bucket 
+- Creating a Graph Data Model & Use Bulk Load API load to Neptune
 
 The following example uses the open IMDB dataset.  This is a small subset of the full IMDB.com application.  With this dataset, we want to develop an application that allows for us to find whether or not an actor or actress is no more than six degrees separated from the actor Kevin Bacon.
 
