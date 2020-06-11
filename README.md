@@ -98,4 +98,4 @@ Following folders carry **Jupyter notebook (interactive python notebook/ .ipynb)
 
 - **[Visualize data in Amazon Neptune using VIS.js](https://github.com/DeepHiveMind/AWS_GraphDB_AWS-API-GW_AWS-Lambda_Visualization_Pipeline)**
 
-- **[AWS Neptune Cluster setup](neptune)** 
+
