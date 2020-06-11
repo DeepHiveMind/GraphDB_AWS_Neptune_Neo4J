@@ -40,7 +40,8 @@ Please relish [Video](https://www.youtube.com/watch?v=JaATpaGDNh4) to understand
 
 ***
 CONNECTED DATA
-Many of the most important questions we want to ask of our data today from our Data Platform (System-of-engagement) require us to understand how things are connected – in what ways, and with what strength, weight or quality. Such as:
+
+Many of the most important questions we want to ask of our data today from our **Data Platform (System-of-engagement)** require us to understand **how things are connected – in what ways, and with what strength, weight or quality**. Such as:
 
 - Which applications and services in my network will be affected if a particular network element—a router or switch, for example—fails?
      - Do we have redundancy throughout the network for our most important customers?
@@ -53,8 +54,8 @@ Many of the most important questions we want to ask of our data today from our D
 - Which institutions are most at risk of poisoning the financial markets?
 
 This needs a Data Platform which can manage and make sense of 
-     - large volumes of variably-structured, 
-     - densely-connected data. 
+     - **large volumes of variably-structured**, 
+     - **densely-connected data**. 
      - what depends on what; how things flow;  analysing the impact of events on deep dependency chains;  identifying and assessing risk; (**All connected data problems**) :simley: .
      
 These are the kinds of problems for which GrphDB like Amazon Neptune is ideally suited. 
@@ -64,7 +65,7 @@ P.S.: I am still a big proponent of **POLYGLOT DB/ FEDERATED DATA LAKE**.
 
 #### The Quick rundown of this repo
 
-**Please note:** 
+*Please note:* 
 
  	- ***This page serve as the Index page.***
 	- Please click on hyperlinks of the respective items to delve deep into it.
