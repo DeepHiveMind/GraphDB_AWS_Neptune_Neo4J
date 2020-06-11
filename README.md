@@ -67,13 +67,13 @@ Please relish [Video](https://www.youtube.com/watch?v=JaATpaGDNh4) to understand
 
 
 #### The Quick rundown of this repo
+```
+Please note:* 
 
-*Please note:* 
-
- 	- ***This page serve as the Index page.***
+ 	- This page serve just as the *Index page*.
 	- Please click on hyperlinks of the respective items to delve deep into it.
 	- Please keep checking your **compass (this index page)** for to seamlessly steer your way to the next mile of this wonderful journey.
-
+```
  
 - [Tranformation from RDBMS Model Schema to Graph Data Model](README%20-Data%20Model%20Transformation.md)
 - [AWS Neptune vis-a-vis Neo4j](README%20-AWS%20Neptune%20%26%20Neo4j.md)
